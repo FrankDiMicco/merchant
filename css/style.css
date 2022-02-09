@@ -1,0 +1,44 @@
+*{
+  box-sizing: border-box;
+}
+
+
+.container{
+  display: inline-flex;
+  border: 3px solid black;
+  flex-direction: row;
+  text-align: center;
+  height: 300px;
+
+
+}
+
+.firstSection, .thirdSection{
+  background: #4388f7;
+  width: 150px;
+}
+
+ .secondSection{
+   background: lightgray;
+   width: 150px;
+   border-left: 3px solid black;
+   border-right: 3px solid black;
+ }
+
+aside{
+  font-size: 20px;
+}
+  /*h3 {
+    border: 1px solid red;
+  }*/
+
+  .tb{
+    font-size: 16px;
+    width: 75px;
+    margin: 2px;
+  }
+
+  #bottomSection{
+    width: 455px;
+    border: 3px solid black;
+  }

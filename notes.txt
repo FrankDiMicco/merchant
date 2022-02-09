@@ -1,0 +1,14 @@
+root, leaves, extract, tincture,
+wart, nettle, buds, pollen, powder,
+bark, flower, seeds, bulb, rhizome,
+stigma, nectar, pulp, stem, fruit,
+nuts, cone, berry, mushroom, spore,
+clove, clover, lamella, cap, mycellium,
+hyphae, trunk, sprout, yeast, fungus
+
+jellyfish, venum, viper, saliva, 
+frogskin, leech, snail, spider silk, 
+coral, scales, 
+
+terms
+seap, tea
